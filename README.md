@@ -1,7 +1,7 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E12AQGqXjmnyuB71g/article-cover_image-shrink_720_1280/0/1624433257039?e=1709164800&v=beta&t=BABSCdzTmicHItStLNddQ6-RY3fAya9mx4H4PbcOXHg)](https://codegrills.in)
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Edriane Opalia</h1>
 <h3 align="center">A passionate frontend developer from Surigao Del Norte</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drxsogood" alt="drxsogood" /></a> </p>
 
 - 🔭 I’m currently working on **Practicing New Projects**
