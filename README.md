@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pinterest.ph/pin/567523990538356835/)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw1mKMWM1l-m__VxIDzSXrHp&ust=1703644037435000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjfxuGGrIMDFQAAAAAdAAAAABAD)
 <h1 align="center">Hi 👋, I'm Edriane Opalia</h1>
 <h3 align="center">A passionate frontend developer from Surigao Del Norte</h3>
 
