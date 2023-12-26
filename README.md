@@ -1,4 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E12AQGqXjmnyuB71g/article-cover_image-shrink_720_1280/0/1624433257039?e=1709164800&v=beta&t=BABSCdzTmicHItStLNddQ6-RY3fAya9mx4H4PbcOXHg)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+
 
 <h1 align="center">Hi 👋, I'm Edriane Opalia</h1>
 <h3 align="center">A passionate frontend developer from Surigao Del Norte</h3>
